@@ -4,6 +4,14 @@ This tool uses Python's FastAPI module to interact with the Discord API to carry
 # Image
 ![image](https://github.com/user-attachments/assets/9a485ca2-b3f1-4117-a6f5-d5bad85262ca)
 
+# Functions
+- Webhook Spammer ✔️
+- Delete Webhook ✔️
+- Nitro Generator ✔️
+- Token Checker ✔️
+- User DM'ing ❌
+- Server Joiner ❌
+
 # How to use
 **Install Requirements**
 
