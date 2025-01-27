@@ -9,8 +9,8 @@ This tool uses Python's FastAPI module to interact with the Discord API to carry
 - Delete Webhook ✔️
 - Nitro Generator ✔️
 - Token Checker ✔️
-- User DM'ing ❌
-- Server Joiner ❌
+- User DM'ing (Coming Soon) ❌
+- Server Joiner (Coming Soon) ❌
 
 # How to use
 **Install Requirements**
