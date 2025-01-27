@@ -1,0 +1,4 @@
+fastapi
+discord_webhook
+uvicorn
+numpy
